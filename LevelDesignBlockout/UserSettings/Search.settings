@@ -52,6 +52,7 @@ recentSearches = [
 	"cube"
 ]
 searchItemFavorites = [
+	"GameObject/ProBuilder/Cube"
 ]
 savedSearchesSortOrder = 0
 showSavedSearchPanel = false
